@@ -64,3 +64,128 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body {
+  width: 1024px;
+  height: 1500px;
+  margin: 0 auto;
+}
+
+nav {
+  width: 100%;
+  margin-bottom: 100px;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  color: #B8B8B8;
+  padding: 30px 30px;
+  vertical-align: middle;
+}
+
+.navlogo {
+  display: inline-block;
+  margin-left: 125px;
+}
+
+section {
+  height: 379px;
+}
+
+section h1 {
+  font-size: 5rem;
+}
+
+section img {
+  margin-left: 60%;
+  position: relative;
+  top: -350px;
+}
+
+section button {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  padding: 5px 20px;
+  background: white;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  margin-right: 50%;
+}
+
+main {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  height: 591px;
+}
+
+.middle-img {
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+main p {
+  display: inline-block;
+}
+
+.firstp {
+  margin-right: 50%;
+  position: relative;
+  bottom: -25px;
+  padding-left: 25px;
+}
+
+.secondp {
+  margin-left: 50%;
+  position: relative;
+  top: -50px;
+}
+
+.thirdp {
+  margin-right: 66%;
+  margin-top: 30px;
+  padding-left: 25px;
+}
+
+.fourthp {
+  text-align: left;
+  padding-left: 20px;
+  margin: 0px 33%;
+  position: relative;
+  top: -110px;
+}
+
+.fifthp {
+  margin-left: 66%;
+  margin-left: 66%;
+  position: relative;
+  top: -225px;
+  padding-left: 20px;
+  padding-right: 25px;
+}
+
+address {
+  margin-top: 25px;
+}
+
+.address {
+  padding-top: 25px;
+}
+
+.number {
+  margin-top: 25px;
+}
+
+footer p {
+  display: inline;
+  margin: 0 40%;
+}
+
+
+
